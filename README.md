@@ -22,74 +22,75 @@ This package's tmLanguage file is set to work with xhtml, tmpl and tpl files. If
 ### Theme Highlighting
 This package creates a new set of scopes for theming which, as of now, no theme supports. The easiest way to solve this is to open which ever theme you are using (.tmTheme) and add the following:
 
+	<dict>
+		<key>name</key>
+		<string>PHPTAL Block</string>
+		<key>scope</key>
+		<string>block.phptal</string>
+		<key>settings</key>
 		<dict>
-			<key>name</key>
-			<string>PHPTAL Block</string>
-			<key>scope</key>
-			<string>block.phptal</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#D6447C</string>
-			</dict>
+			<key>foreground</key>
+			<string>#D6769B</string>
 		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PHPTAL Attribute</string>
+		<key>scope</key>
+		<string>attribute.phptal</string>
+		<key>settings</key>
 		<dict>
-			<key>name</key>
-			<string>PHPTAL Attribute</string>
-			<key>scope</key>
-			<string>attribute.phptal</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#D6447C</string>
-			</dict>
+			<key>foreground</key>
+			<string>#D6769B</string>
 		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PHPTAL String</string>
+		<key>scope</key>
+		<string>string.phptal</string>
+		<key>settings</key>
 		<dict>
-			<key>name</key>
-			<string>PHPTAL String</string>
-			<key>scope</key>
-			<string>string.phptal</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E86B36</string>
-			</dict>
+			<key>foreground</key>
+			<string>#E88156</string>
 		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PHPTAL Variable</string>
+		<key>scope</key>
+		<string>variable.phptal</string>
+		<key>settings</key>
 		<dict>
-			<key>name</key>
-			<string>PHPTAL Variable</string>
-			<key>scope</key>
-			<string>variable.phptal</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E86B36</string>
-			</dict>
+			<key>foreground</key>
+			<string>#E88156</string>
 		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PHPTAL Variable Reference</string>
+		<key>scope</key>
+		<string>variable.reference.phptal</string>
+		<key>settings</key>
 		<dict>
-			<key>name</key>
-			<string>PHPTAL Variable Reference</string>
-			<key>scope</key>
-			<string>variable.reference.phptal</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FF923B</string>
-			</dict>
+			<key>foreground</key>
+			<string>#FF9C4C</string>
 		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PHPTAL Warning</string>
+		<key>scope</key>
+		<string>warning.phptal</string>
+		<key>settings</key>
 		<dict>
-			<key>name</key>
-			<string>PHPTAL Warning</string>
-			<key>scope</key>
-			<string>warning.phptal</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E83736</string>
-				<key>fontStyle</key>
-				<string> italic underline</string>
-			</dict>
+			<key>foreground</key>
+			<string>#E83736</string>
+			<key>fontStyle</key>
+			<string> italic underline</string>
 		</dict>
+	</dict>
+
 
 Once saved you should see that tal blocks, attributes, strings etc are now coloured differently to standard HTML.
 (Feel free to change the colours to suit your theme!)

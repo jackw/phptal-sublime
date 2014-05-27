@@ -1080,7 +1080,7 @@
 			<key>comment</key>
 			<string>Matches a tal variable declaration in either a define or a repeat</string>
 			<key>match</key>
-			<string>(?&lt;=(tal:(repeat|define)=["|']))[\w-]+</string>
+			<string>(?&lt;=(tal:(repeat|define)=["|'])|[\n\r\t]|\;\s)(global\s)?[\w-]+</string>
 			<key>name</key>
 			<string>variable.reference.phptal</string>
 		</dict>
