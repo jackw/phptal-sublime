@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[repeat/${1:item}/end]]></content>
+	<tabTrigger>tal_end</tabTrigger>
+	<description>PHPTAL repeat end</description>
+	<scope>text.html.phptal</scope>
+</snippet>

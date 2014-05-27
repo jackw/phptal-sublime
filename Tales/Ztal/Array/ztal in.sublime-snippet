@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Array.in:${1:needle},${2:haystack}$0]]></content>
+	<tabTrigger>ztal_in</tabTrigger>
+	<description>Ztal_Tales_Array.in:</description>
+	<scope>text.html.phptal</scope>
+</snippet>
+

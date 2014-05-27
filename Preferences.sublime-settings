@@ -1,0 +1,4 @@
+{
+	"auto_complete_delay": 300,
+	"auto_complete_triggers": [ {"selector": "text.html.phptal", "characters": "(z?tal_)"} ]
+}

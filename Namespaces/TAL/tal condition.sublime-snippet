@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tal:condition="$1"$0]]></content>
+	<tabTrigger>tal_condition</tabTrigger>
+	<description>PHPTAL tal:condition</description>
+	<scope>text.html.phptal</scope>
+</snippet>

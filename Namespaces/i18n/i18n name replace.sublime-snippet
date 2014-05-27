@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[i18n:translate="${1:translationKey}" tal:replace="${2:variableName};"$0]]></content>
+	<tabTrigger>i18n_namereplace</tabTrigger>
+	<description>PHPTAL i18n:name replace</description>
+	<scope>text.html.phptal</scope>
+</snippet>

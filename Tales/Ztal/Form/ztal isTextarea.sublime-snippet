@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Form.isTextarea:${1:element}$0]]></content>
+	<tabTrigger>ztal_istextarea</tabTrigger>
+	<description>Ztal_Tales_Form.isTextarea:</description>
+	<scope>text.html.phptal</scope>
+</snippet>

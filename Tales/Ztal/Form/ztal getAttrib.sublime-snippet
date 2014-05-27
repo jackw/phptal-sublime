@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Form.getAttrib:${1:elementName},${2:attribute}$0]]></content>
+	<tabTrigger>ztal_getattr</tabTrigger>
+	<description>Ztal_Tales_Form.getAttrib:</description>
+	<scope>text.html.phptal</scope>
+</snippet>

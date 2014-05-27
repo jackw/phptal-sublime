@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Generic.numberFormatDecimal:${1:number},${2:decimalPlaces}$0]]></content>
+	<tabTrigger>ztal_formatdecimal</tabTrigger>
+	<description>PHPTAL Ztal_Tales_Generic.numberFormatDecimal:</description>
+	<scope>text.html.phptal</scope>
+</snippet>

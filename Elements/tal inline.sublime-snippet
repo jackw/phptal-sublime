@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<tal:inline>$0</tal:inline>]]></content>
+	<tabTrigger>talinline</tabTrigger>
+	<description>&lt;tal:inline&gt;</description>
+	<scope>text.html.phptal</scope>
+</snippet>

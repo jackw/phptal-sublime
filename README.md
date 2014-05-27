@@ -1,5 +1,5 @@
 ## PHPTAL / Ztal Sublime Text Package
----
+
 *Note*: This plugin has not been tested under all operating systems. It's really quite basic so at a guess I'd say it'll work. However if you discover a problem please [file an issue][1].
 
 ---

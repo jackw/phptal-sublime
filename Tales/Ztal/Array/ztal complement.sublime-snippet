@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Array.complement:${1:mode: key | value},${2:array1},${3:array2}$0]]></content>
+	<tabTrigger>ztal_complement</tabTrigger>
+	<description>Ztal_Tales_Array.complement:</description>
+	<scope>text.html.phptal</scope>
+</snippet>

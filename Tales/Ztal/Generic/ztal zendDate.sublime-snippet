@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Generic.zendDate:${1:variable},${2:format}$0]]></content>
+	<tabTrigger>ztal_date</tabTrigger>
+	<description>PHPTAL Ztal_Tales_Generic.zendDate:</description>
+	<scope>text.html.phptal</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Form.showLabelBefore:${1:element}$0]]></content>
+	<tabTrigger>ztal_labelbefore</tabTrigger>
+	<description>Ztal_Tales_Form.showLabelBefore:</description>
+	<scope>text.html.phptal</scope>
+</snippet>

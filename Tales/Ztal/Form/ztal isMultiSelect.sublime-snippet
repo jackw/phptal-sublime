@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ztal_Tales_Form.isMultiSelect:${1:element}$0]]></content>
+	<tabTrigger>ztal_ismselect</tabTrigger>
+	<description>Ztal_Tales_Form.isMultiSelect:</description>
+	<scope>text.html.phptal</scope>
+</snippet>

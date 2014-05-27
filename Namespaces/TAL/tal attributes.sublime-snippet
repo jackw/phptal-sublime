@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tal:attributes="${1:attribute} ${2:attributeValue};$3"$0]]></content>
+	<tabTrigger>tal_attr</tabTrigger>
+	<description>PHPTAL tal:attributes</description>
+	<scope>text.html.phptal</scope>
+</snippet>
